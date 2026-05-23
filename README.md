@@ -20,7 +20,7 @@
 1. **Клонируйте репозиторий:**
    ```bash
    git clone https://github.com
-   cd soap-testing-demo
+   cd SOAP_CLIENT_SERVER
    ```
 
 2. **Установите зависимости через `uv`:**
